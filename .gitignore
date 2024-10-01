@@ -1,0 +1,33 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+env.bak/
+venv.bak/
+
+# Database files
+*.db
+*.sqlite3
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Python egg files
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# MyPy
+.mypy_cache/
