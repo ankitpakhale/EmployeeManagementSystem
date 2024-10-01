@@ -1,16 +1,20 @@
 # Employee Management System
 
+# Project Architecture
+![Employee Management System](EmployeeManagementSystemArchitecture.jpg)
+
 ## Description
 The Employee Management System is a simple application that allows you to manage employees and their associated departments. It provides functionality for creating, reading, updating, and deleting (CRUD) employee and department records using SQLAlchemy and a SQLite database.
 
 ## Project Structure
+```
 EmployeeManagementSystem/
 │
 ├── main.py                # Main entry point for the project
 ├── models.py              # File to define database models
 ├── config.py              # Configuration file for database setup
 └── requirements.txt       # List of required dependencies
-
+```
 
 ## Features
 - Create departments and employees
