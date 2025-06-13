@@ -1,14 +1,14 @@
-# Employee Management System
+# TEAM – Talent Engagement & Administration Manager
 
 # Project Architecture
-![Employee Management System](EmployeeManagementSystemArchitecture.jpg)
+![TEAM](TEAMArchitecture.jpg)
 
 ## Description
-The Employee Management System is a simple application that allows you to manage employees and their associated departments. It provides functionality for creating, reading, updating, and deleting (CRUD) employee and department records using SQLAlchemy and a SQLite database.
+TEAM is a simple application that allows you to manage employees and their associated departments. It provides functionality for creating, reading, updating, and deleting (CRUD) employee and department records using SQLAlchemy and a SQLite database.
 
 ## Project Structure
 ```
-EmployeeManagementSystem/
+TEAM/
 │
 ├── main.py                # Main entry point for the project
 ├── models.py              # File to define database models
@@ -33,8 +33,8 @@ EmployeeManagementSystem/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ankitpakhale/EmployeeManagementSystem.git
-   cd EmployeeManagementSystem
+   git clone https://github.com/ankitpakhale/TEAM.git
+   cd TEAM
    ```
 
 2. Create a virtual environment:
